@@ -73,7 +73,9 @@
     <content url="file://$MODULE_DIR$/../../../composeApp/build/generated/assets/debugAssetsCopyForAGP" />
     <content url="file://$MODULE_DIR$/../../../composeApp/build/generated/compose/resourceGenerator/kotlin/androidDebugResourceAccessors" />
     <content url="file://$MODULE_DIR$/../../../composeApp/build/generated/compose/resourceGenerator/kotlin/androidMainResourceAccessors" />
-    <content url="file://$MODULE_DIR$/../../../composeApp/build/generated/res/resValues/debug" />
+    <content url="file://$MODULE_DIR$/../../../composeApp/build/generated/res/resValues/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../composeApp/build/generated/res/resValues/debug" type="java-resource" generated="true" />
+    </content>
     <content url="file://$MODULE_DIR$/../../../composeApp/build/kotlin-multiplatform-resources/assemble-hierarchically/androidDebugResources">
       <sourceFolder url="file://$MODULE_DIR$/../../../composeApp/build/kotlin-multiplatform-resources/assemble-hierarchically/androidDebugResources" type="java-resource" />
     </content>
@@ -113,6 +115,21 @@
     <orderEntry type="library" name="Gradle: androidx.compose.ui:ui-util-android:1.7.2@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime-compose-android:2.8.3@aar" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.compose.components:components-ui-tooling-preview-android:1.6.11@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:exoplayer:2.19.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:exoplayer-common:2.19.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:exoplayer-database:2.19.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:exoplayer-datasource:2.19.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:exoplayer-decoder:2.19.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:exoplayer-extractor:2.19.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:exoplayer-core:2.19.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:exoplayer-container:2.19.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:exoplayer-dash:2.19.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:exoplayer-hls:2.19.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:exoplayer-rtsp:2.19.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:exoplayer-smoothstreaming:2.19.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:exoplayer-ui:2.19.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.media:media:1.6.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.accompanist:accompanist-systemuicontroller:0.30.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.compose.foundation:foundation-android:1.7.2@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.compose.animation:animation-android:1.7.2@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.compose.animation:animation-core-android:1.7.2@aar" level="project" />
@@ -132,5 +149,10 @@
     <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.2.0" level="project" />
     <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common-jvm:2.8.3" level="project" />
     <orderEntry type="library" name="Gradle: androidx.collection:collection-jvm:1.4.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:guava:31.1-android" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:failureaccess:1.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.20" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.20" level="project" />
   </component>
 </module>

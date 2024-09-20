@@ -10,7 +10,15 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.viewinterop.AndroidView
-import androidx.core.net.toUri
+import android.net.Uri
+import androidx.compose.runtime.DisposableEffect
+import androidx.compose.runtime.remember
+import com.google.android.exoplayer2.ExoPlayer
+import com.google.android.exoplayer2.MediaItem
+import com.google.android.exoplayer2.ui.PlayerView
+import com.google.android.exoplayer2.ui.AspectRatioFrameLayout
+import com.google.accompanist.systemuicontroller.rememberSystemUiController
+import androidx.compose.ui.graphics.Color
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -25,19 +33,54 @@ class MainActivity : ComponentActivity() {
 @Composable
 actual fun PlayStartupVideo(onVideoEnd: () -> Unit) {
     val context = LocalContext.current
+    val systemUiController = rememberSystemUiController()
+    val statusBarColor = Color(0xFF000000)
 
-    AndroidView(
-        modifier = Modifier.fillMaxSize(),
-        factory = { ctx ->
-            VideoView(ctx).apply {
-                setVideoURI("android.resource://${context.packageName}/raw/krona".toUri())
-                setOnCompletionListener {
-                    onVideoEnd()
+    systemUiController.setStatusBarColor(
+        color = statusBarColor,
+        darkIcons = false
+    )
+
+    val exoPlayer = remember {
+        ExoPlayer.Builder(context).build().apply {
+            val videoUri = Uri.parse("android.resource://${context.packageName}/raw/krona")
+            val mediaItem = MediaItem.fromUri(videoUri)
+            setMediaItem(mediaItem)
+            prepare()
+            playWhenReady = true
+        }
+    }
+
+    DisposableEffect(
+        AndroidView(
+            modifier = Modifier.fillMaxSize(),
+            factory = { ctx ->
+                PlayerView(ctx).apply {
+                    player = exoPlayer
+                    resizeMode = AspectRatioFrameLayout.RESIZE_MODE_FILL
+                    useController = false
                 }
-                start()
+            }
+        )
+    ) {
+        onDispose {
+            exoPlayer.release()
+        }
+    }
+
+    exoPlayer.addListener(object : com.google.android.exoplayer2.Player.Listener {
+        override fun onPlaybackStateChanged(state: Int) {
+            if (state == com.google.android.exoplayer2.Player.STATE_ENDED) {
+                onVideoEnd()
+                val statusBarColor = Color(0xFF0F1C2E)
+
+                systemUiController.setStatusBarColor(
+                    color = statusBarColor,
+                    darkIcons = false
+                )
             }
         }
-    )
+    })
 }
 
 @Preview

@@ -42,6 +42,7 @@ fun AppWithSplash() {
 @Composable
 expect fun PlayStartupVideo(onVideoEnd: () -> Unit)
 
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun App() {
     MaterialTheme {
@@ -56,9 +57,11 @@ fun App() {
                     ),
                     title = {
                         Text(
-                            "Главная",
+                            text = getLabelForScreen(currentScreen),
                             maxLines = 1,
                             color = Color(0xFFFFE7D3),
+                            modifier = Modifier.padding(top = 24.dp),
+                            fontSize = 20.sp
                         )
                     },
                     scrollBehavior = scrollBehavior,
@@ -122,24 +125,24 @@ fun App() {
                 horizontalAlignment = Alignment.CenterHorizontally
             ) {
                 when (currentScreen) {
-                    "MainPage" -> {
-                        MainPage()
-                    }
-                    "Calendar" -> {
-                        Calendar()
-                    }
-                    "Events" -> {
-                        Events()
-                    }
-                    "PersonalAccount" -> {
-                        PersonalAccount()
-                    }
-                    else -> {
-                        Krona()
-                    }
+                    "MainPage" -> MainPage()
+                    "Calendar" -> Calendar()
+                    "Events" -> Events()
+                    "PersonalAccount" -> PersonalAccount()
+                    else -> Krona()
                 }
             }
         }
+    }
+}
+
+fun getLabelForScreen(screen: String): String {
+    return when (screen) {
+        "MainPage" -> "Главная"
+        "Calendar" -> "Календарь"
+        "Events" -> "Мероприятия"
+        "PersonalAccount" -> "Аккаунт"
+        else -> "Krona"
     }
 }
 

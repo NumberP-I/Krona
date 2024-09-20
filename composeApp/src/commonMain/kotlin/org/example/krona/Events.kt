@@ -14,7 +14,7 @@ fun Events() {
         Box(
             modifier = Modifier
                 .fillMaxSize()
-                .background(Color(0xFFD5A6F3))
+                .background(Color(0xFFF1F1F1))
         ) {
         }
     }
