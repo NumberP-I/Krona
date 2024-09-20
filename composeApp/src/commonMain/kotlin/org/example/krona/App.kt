@@ -22,8 +22,27 @@ import krona.composeapp.generated.resources.Res
 import krona.composeapp.generated.resources.*
 import org.jetbrains.compose.resources.DrawableResource
 
+import androidx.compose.runtime.*
+
 @Composable
 @Preview
+fun AppWithSplash() {
+    var showSplash by remember { mutableStateOf(true) }
+
+    if (showSplash) {
+        PlayStartupVideo {
+            showSplash = false
+        }
+    }
+    else {
+        App()
+    }
+}
+
+@Composable
+expect fun PlayStartupVideo(onVideoEnd: () -> Unit)
+
+@Composable
 fun App() {
     MaterialTheme {
         var currentScreen by remember { mutableStateOf("MainPage") }

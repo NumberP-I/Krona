@@ -14,7 +14,7 @@ fun Calendar() {
         Box(
             modifier = Modifier
                 .fillMaxSize()
-                .background(Color(0xFFD5A6F3))
+                .background(Color(0xFFFFFFFF))
         ) {
         }
     }
