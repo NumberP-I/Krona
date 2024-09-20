@@ -9,7 +9,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 
 @Composable
-fun MainPage() {
+fun Calendar() {
     MaterialTheme {
         Box(
             modifier = Modifier

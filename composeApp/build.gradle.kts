@@ -40,6 +40,7 @@ kotlin {
             implementation(compose.foundation)
             implementation(compose.material)
             implementation(compose.ui)
+            implementation(compose.material3)
             implementation(compose.components.resources)
             implementation(compose.components.uiToolingPreview)
             implementation(libs.androidx.lifecycle.viewmodel)
@@ -90,6 +91,6 @@ dependencies {
     implementation(libs.material)
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.ui.android)
-    implementation(libs.androidx.material3.desktop)
+    implementation(libs.androidx.ui.graphics.android)
 }
 

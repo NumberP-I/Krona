@@ -9,7 +9,24 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="050a43bd-9ab6-421b-b3ef-31bb228044fe" name="Changes" comment="krona kotlin" />
+    <list default="true" id="050a43bd-9ab6-421b-b3ef-31bb228044fe" name="Changes" comment="krona kotlin">
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composeApp/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composeApp/build/generated/compose/resourceGenerator/kotlin/commonMainResourceAccessors/krona/composeapp/generated/resources/Drawable0.commonMain.kt" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/generated/compose/resourceGenerator/kotlin/commonMainResourceAccessors/krona/composeapp/generated/resources/Drawable0.commonMain.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composeApp/src/commonMain/kotlin/org/example/krona/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/src/commonMain/kotlin/org/example/krona/App.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composeApp/src/commonMain/kotlin/org/example/krona/Calendar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/src/commonMain/kotlin/org/example/krona/Calendar.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composeApp/src/commonMain/kotlin/org/example/krona/Events.kt" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/src/commonMain/kotlin/org/example/krona/Events.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composeApp/src/commonMain/kotlin/org/example/krona/MainPage.kt" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/src/commonMain/kotlin/org/example/krona/MainPage.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composeApp/src/commonMain/kotlin/org/example/krona/PersonalAccount.kt" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/src/commonMain/kotlin/org/example/krona/PersonalAccount.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composeApp/src/commonMain/kotlin/org/example/krona/Platform.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/libs.versions.toml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +102,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/NumberP-I/Krona.git&quot;,
+    &quot;url&quot;: &quot;git@github.com:NumberP-I/Krona.git&quot;,
     &quot;accountId&quot;: &quot;6b9c1997-64b6-490b-b316-b0081d7f259f&quot;
   }
 }</component>
@@ -114,19 +131,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;external.system.has.shared.sources&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/a1/Desktop/Krona&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Android App.composeApp.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "com.google.services.firebase.aqiPopupShown": "true",
+    "external.system.has.shared.sources": "true",
+    "git-widget-placeholder": "develop",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/a1/Desktop/Krona"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Android App.composeApp">
     <configuration name="composeApp" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="krona.composeApp.main" />
@@ -217,8 +236,43 @@
       <option name="project" value="LOCAL" />
       <updated>1726814373680</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="krona kotlin">
+      <option name="closed" value="true" />
+      <created>1726815214956</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726815214956</updated>
+    </task>
+    <task id="LOCAL-00003" summary="krona kotlin">
+      <option name="closed" value="true" />
+      <created>1726815226945</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726815226945</updated>
+    </task>
+    <task id="LOCAL-00004" summary="krona kotlin">
+      <option name="closed" value="true" />
+      <created>1726815236408</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726815236408</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="krona kotlin" />
