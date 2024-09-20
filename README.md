@@ -1,1 +1,2 @@
-Hello
+# Krona
+Welcome to Krona
