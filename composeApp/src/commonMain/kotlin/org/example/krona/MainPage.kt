@@ -24,7 +24,7 @@ import androidx.compose.ui.semantics.Role.Companion.Image
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
 import krona.composeapp.generated.resources.Res
-import krona.composeapp.generated.resources.
+import krona.composeapp.generated.resources.*
 import org.jetbrains.compose.resources.painterResource
 import org.jetbrains.compose.resources.DrawableResource
 

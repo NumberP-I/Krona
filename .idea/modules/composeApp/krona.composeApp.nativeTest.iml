@@ -54,6 +54,7 @@
     <orderEntry type="module" module-name="krona.composeApp.nativeMain" scope="TEST" />
     <orderEntry type="module" module-name="krona.composeApp.commonMain" scope="TEST" />
     <orderEntry type="library" scope="TEST" name="Gradle: Kotlin/Native: stdlib" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:commonMain:2.0.20" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.runtime:runtime:uikitMain:1.6.11" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.runtime:runtime:nativeMain:1.6.11" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.runtime:runtime:jsNativeMain:1.6.11" level="project" />
@@ -143,7 +144,6 @@
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-datetime:tzfileMain:0.6.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-datetime:nativeMain:0.6.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-datetime:commonMain:0.6.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:commonMain:2.0.20" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.androidx.lifecycle:lifecycle-common:nonJvmMain:2.8.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.androidx.lifecycle:lifecycle-common:commonMain:2.8.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.androidx.lifecycle:lifecycle-runtime:nativeMain:2.8.0" level="project" />

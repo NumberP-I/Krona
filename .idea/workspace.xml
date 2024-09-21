@@ -21,304 +21,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="050a43bd-9ab6-421b-b3ef-31bb228044fe" name="Changes" comment="MainPage update">
-      <change afterPath="$PROJECT_DIR$/composeApp/build/kotlin-multiplatform-resources/assemble-hierarchically/androidDebugResources/composeResources/krona.composeapp.generated.resources/drawable/Arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/build/kotlin-multiplatform-resources/assemble-hierarchically/androidDebugResources/composeResources/krona.composeapp.generated.resources/drawable/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/androidMain/kotlin/org/example/krona/FontResourcesAndroid.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/androidMain/logo-playstore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/androidMain/res/font-v26/raleway.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/androidMain/res/font/raleway.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/androidMain/res/font/raleway_black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/androidMain/res/font/raleway_black_italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/androidMain/res/font/raleway_bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/androidMain/res/font/raleway_bold_italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/androidMain/res/font/raleway_heavy.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/androidMain/res/font/raleway_heavy_italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/androidMain/res/font/raleway_light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/androidMain/res/font/raleway_light_italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/androidMain/res/font/raleway_medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/androidMain/res/font/raleway_medium_italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/androidMain/res/font/raleway_regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/androidMain/res/font/raleway_regular_italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/androidMain/res/font/raleway_semi_bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/androidMain/res/font/raleway_semi_bold_italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/androidMain/res/font/raleway_thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/androidMain/res/font/raleway_thin_italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/androidMain/res/font/raleway_ultralight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/androidMain/res/font/raleway_ultralight_italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/commonMain/kotlin/org/example/krona/FontResourcesCommon.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/main/res/drawable/logo_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/main/res/mipmap-anydpi-v26/logo.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/main/res/mipmap-anydpi-v26/logo_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/main/res/mipmap-hdpi/logo.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/main/res/mipmap-hdpi/logo_foreground.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/main/res/mipmap-hdpi/logo_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/main/res/mipmap-mdpi/logo.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/main/res/mipmap-mdpi/logo_foreground.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/main/res/mipmap-mdpi/logo_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/main/res/mipmap-xhdpi/logo.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/main/res/mipmap-xhdpi/logo_foreground.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/main/res/mipmap-xhdpi/logo_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/main/res/mipmap-xxhdpi/logo.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/main/res/mipmap-xxhdpi/logo_foreground.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/main/res/mipmap-xxhdpi/logo_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/main/res/mipmap-xxxhdpi/logo.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/main/res/mipmap-xxxhdpi/logo_foreground.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeApp/src/main/res/mipmap-xxxhdpi/logo_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.androidTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.androidTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.nativeTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.nativeTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.unitTest.iml" beforeDir="false" />
+    <list default="true" id="050a43bd-9ab6-421b-b3ef-31bb228044fe" name="Changes" comment="MainPage update 2">
+      <change afterPath="$PROJECT_DIR$/composeApp/src/commonMain/composeResources/drawable/Arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/apk/debug/composeApp-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/apk/debug/composeApp-debug.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/processDebugResources/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/processDebugResources/R.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/dex_archive_input_jar_hashes/debug/dexBuilderDebug/out" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/dex_archive_input_jar_hashes/debug/dexBuilderDebug/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-af/values-af.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-am/values-am.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ar/values-ar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-as/values-as.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-az/values-az.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-be/values-be.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-bg/values-bg.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-bn/values-bn.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-bs/values-bs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ca/values-ca.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-cs/values-cs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-da/values-da.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-de/values-de.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-el/values-el.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-es/values-es.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-et/values-et.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-eu/values-eu.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-fa/values-fa.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-fi/values-fi.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-fr/values-fr.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-gl/values-gl.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-gu/values-gu.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-hi/values-hi.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-hr/values-hr.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-hu/values-hu.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-hy/values-hy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-in/values-in.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-is/values-is.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-it/values-it.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-iw/values-iw.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ja/values-ja.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ka/values-ka.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-kk/values-kk.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-km/values-km.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-kn/values-kn.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ko/values-ko.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ky/values-ky.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-lo/values-lo.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-lt/values-lt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-lv/values-lv.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-mk/values-mk.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ml/values-ml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-mn/values-mn.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-mr/values-mr.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ms/values-ms.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-my/values-my.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-nb/values-nb.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ne/values-ne.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-nl/values-nl.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-or/values-or.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pa/values-pa.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pl/values-pl.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pt/values-pt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ro/values-ro.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ru/values-ru.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-si/values-si.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sk/values-sk.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sl/values-sl.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sq/values-sq.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sr/values-sr.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sv/values-sv.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sw/values-sw.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ta/values-ta.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-te/values-te.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-th/values-th.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-tl/values-tl.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-tr/values-tr.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-uk/values-uk.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ur/values-ur.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-uz/values-uz.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v21/values-v21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v24/values-v24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v30/values-v30.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-vi/values-vi.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-zu/values-zu.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values/values.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/mergeDebugResources/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/packageDebugResources/merged.dir/values/values.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/packageDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/debug/packageDebugResources/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/java_res/debug/processDebugJavaRes/out/META-INF/composeApp_debug.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/java_res/debug/processDebugJavaRes/out/META-INF/composeApp_debug.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/local_only_symbol_list/debug/parseDebugLocalResources/R-def.txt" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/local_only_symbol_list/debug/parseDebugLocalResources/R-def.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/manifest_merge_blame_file/debug/processDebugMainManifest/manifest-merger-blame-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/manifest_merge_blame_file/debug/processDebugMainManifest/manifest-merger-blame-debug-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/merged_java_res/debug/mergeDebugJavaResource/base.jar" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/merged_java_res/debug/mergeDebugJavaResource/base.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/merged_manifest/debug/processDebugMainManifest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/merged_manifest/debug/processDebugMainManifest/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/merged_manifests/debug/processDebugManifest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/merged_manifests/debug/processDebugManifest/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/merged_res/debug/mergeDebugResources/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/merged_res/debug/mergeDebugResources/values_values.arsc.flat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/mergeDebugResources.json" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/mergeDebugResources.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/single/mergeDebugResources.json" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/single/mergeDebugResources.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/packaged_manifests/debug/processDebugManifestForPackage/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/packaged_manifests/debug/processDebugManifestForPackage/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/packaged_res/debug/packageDebugResources/values/values.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/5ad89e7ab7d1c8cc87ffeee5db2ad9c4c659269e047f1bc60e7ed8310a2adcea_0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/5ad89e7ab7d1c8cc87ffeee5db2ad9c4c659269e047f1bc60e7ed8310a2adcea_1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/5ad89e7ab7d1c8cc87ffeee5db2ad9c4c659269e047f1bc60e7ed8310a2adcea_2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/5ad89e7ab7d1c8cc87ffeee5db2ad9c4c659269e047f1bc60e7ed8310a2adcea_3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/5ad89e7ab7d1c8cc87ffeee5db2ad9c4c659269e047f1bc60e7ed8310a2adcea_4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/5ad89e7ab7d1c8cc87ffeee5db2ad9c4c659269e047f1bc60e7ed8310a2adcea_5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/5ad89e7ab7d1c8cc87ffeee5db2ad9c4c659269e047f1bc60e7ed8310a2adcea_6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/5ad89e7ab7d1c8cc87ffeee5db2ad9c4c659269e047f1bc60e7ed8310a2adcea_7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/AppKt.dex" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/AppKt.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/BottomNavItem.dex" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/BottomNavItem.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$1$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$1$1.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$1.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$2$1$1$1$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$2$1$1$1$2.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$2$1$1$1$3.dex" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$2$1$1$1$3.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$2$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$2$1.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$2.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$3.dex" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$3.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$AppKt$lambda-1$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$AppKt$lambda-1$1.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$AppKt.dex" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$AppKt.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$MainPageKt$lambda-1$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$MainPageKt$lambda-1$1.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$MainPageKt$lambda-2$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$MainPageKt$lambda-2$1.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$MainPageKt$lambda-3$1$invoke$lambda$3$lambda$2$lambda$1$$inlined$items$default$1.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$MainPageKt$lambda-3$1$invoke$lambda$3$lambda$2$lambda$1$$inlined$items$default$2.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$MainPageKt$lambda-3$1$invoke$lambda$3$lambda$2$lambda$1$$inlined$items$default$3.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$MainPageKt$lambda-3$1$invoke$lambda$3$lambda$2$lambda$1$$inlined$items$default$4.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$MainPageKt$lambda-3$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$MainPageKt$lambda-3$1.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$MainPageKt$lambda-4$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$MainPageKt$lambda-4$1.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$MainPageKt.dex" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/ComposableSingletons$MainPageKt.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/Event.dex" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/Event.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/EventsKt.dex" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/EventsKt.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/KronaKt.dex" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/KronaKt.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/MainActivityKt.dex" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/MainActivityKt.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/MainPageKt$ScheduleItem$1$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/MainPageKt$ScheduleItem$1$1.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/MainPageKt.dex" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/MainPageKt.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/PersonalAccountKt.dex" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/org/example/krona/PersonalAccountKt.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/runtime_symbol_list/debug/processDebugResources/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/runtime_symbol_list/debug/processDebugResources/R.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/stable_resource_ids_file/debug/processDebugResources/stableIds.txt" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/stable_resource_ids_file/debug/processDebugResources/stableIds.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/intermediates/symbol_list_with_package_name/debug/processDebugResources/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/intermediates/symbol_list_with_package_name/debug/processDebugResources/package-aware-r.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/complementary-files.tab" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/complementary-files.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/complementary-files.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/complementary-files.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/complementary-files.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/complementary-files.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/complementary-files.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/complementary-files.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/complementary-files.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/complementary-files.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/complementary-files.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/complementary-files.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/package-parts.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/counters.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/cacheable/last-build.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/classpath-snapshot/shrunk-classpath-snapshot.bin" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/classpath-snapshot/shrunk-classpath-snapshot.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/local-state/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/kotlin/compileDebugKotlinAndroid/local-state/build-history.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/META-INF/composeApp_debug.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/META-INF/composeApp_debug.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/AppKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/AppKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/BottomNavItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/BottomNavItem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$2$1$1$1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$2$1$1$1$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$2$1$1$1$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$2$1$1$1$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$AppKt$lambda-1$1$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$AppKt$lambda-1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$AppKt$lambda-1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$AppKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$AppKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$MainPageKt$lambda-1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$MainPageKt$lambda-1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$MainPageKt$lambda-2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$MainPageKt$lambda-2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$MainPageKt$lambda-3$1$invoke$lambda$3$lambda$2$lambda$1$$inlined$items$default$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$MainPageKt$lambda-3$1$invoke$lambda$3$lambda$2$lambda$1$$inlined$items$default$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$MainPageKt$lambda-3$1$invoke$lambda$3$lambda$2$lambda$1$$inlined$items$default$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$MainPageKt$lambda-3$1$invoke$lambda$3$lambda$2$lambda$1$$inlined$items$default$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$MainPageKt$lambda-3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$MainPageKt$lambda-3$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$MainPageKt$lambda-4$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$MainPageKt$lambda-4$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$MainPageKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/ComposableSingletons$MainPageKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/Event.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/MainPageKt$ScheduleItem$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/MainPageKt$ScheduleItem$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/MainPageKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/build/tmp/kotlin-classes/debug/org/example/krona/MainPageKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/src/androidMain/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/src/androidMain/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/src/androidMain/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/src/androidMain/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeApp/src/commonMain/kotlin/org/example/krona/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/src/commonMain/kotlin/org/example/krona/App.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composeApp/src/commonMain/kotlin/org/example/krona/MainPage.kt" beforeDir="false" afterPath="$PROJECT_DIR$/composeApp/src/commonMain/kotlin/org/example/krona/MainPage.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -383,13 +89,13 @@
         <envs />
       </variant>
     </executable>
-    <executable TARGET="ios_simulator_arm64" TARGET_NAME="iosSimulatorArm64" EXECUTABLE_NAME="test" PROJECT_PREFIX=":composeApp:" IS_TEST="true">
-      <variant NAME="Debug" GRADLE_TASK=":composeApp:linkDebugTestIosSimulatorArm64" FILE="$PROJECT_DIR$/composeApp/build/bin/iosSimulatorArm64/debugTest/test.kexe" WORKING_DIR="" PROGRAM_PARAMS="">
+    <executable TARGET="ios_arm64" TARGET_NAME="iosArm64" EXECUTABLE_NAME="test" PROJECT_PREFIX=":composeApp:" IS_TEST="true">
+      <variant NAME="Debug" GRADLE_TASK=":composeApp:linkDebugTestIosArm64" FILE="$PROJECT_DIR$/composeApp/build/bin/iosArm64/debugTest/test.kexe" WORKING_DIR="" PROGRAM_PARAMS="">
         <envs />
       </variant>
     </executable>
-    <executable TARGET="ios_arm64" TARGET_NAME="iosArm64" EXECUTABLE_NAME="test" PROJECT_PREFIX=":composeApp:" IS_TEST="true">
-      <variant NAME="Debug" GRADLE_TASK=":composeApp:linkDebugTestIosArm64" FILE="$PROJECT_DIR$/composeApp/build/bin/iosArm64/debugTest/test.kexe" WORKING_DIR="" PROGRAM_PARAMS="">
+    <executable TARGET="ios_simulator_arm64" TARGET_NAME="iosSimulatorArm64" EXECUTABLE_NAME="test" PROJECT_PREFIX=":composeApp:" IS_TEST="true">
+      <variant NAME="Debug" GRADLE_TASK=":composeApp:linkDebugTestIosSimulatorArm64" FILE="$PROJECT_DIR$/composeApp/build/bin/iosSimulatorArm64/debugTest/test.kexe" WORKING_DIR="" PROGRAM_PARAMS="">
         <envs />
       </variant>
     </executable>
@@ -405,27 +111,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Android App.Unnamed.executor&quot;: &quot;Run&quot;,
-    &quot;Android App.composeApp.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;external.system.has.shared.sources&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;J:/AndroidStudioProjects/CodeSubscriptionWizard&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Android App.Unnamed.executor": "Run",
+    "Android App.composeApp.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "com.google.services.firebase.aqiPopupShown": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "external.system.has.shared.sources": "true",
+    "git-widget-placeholder": "develop",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "J:/AndroidStudioProjects/Krona/composeApp/src/commonMain/composeResources/drawable",
+    "show.migrate.to.gradle.popup": "false"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="J:\AndroidStudioProjects\Krona\composeApp\src\commonMain\composeResources\drawable" />
       <recent name="J:\AndroidStudioProjects\Krona\composeApp\src\commonMain\kotlin\org\example\krona" />
       <recent name="J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\res\font" />
       <recent name="J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\kotlin\org\example\krona" />
@@ -578,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726859352464</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="MainPage update 2">
+      <option name="closed" value="true" />
+      <created>1726921753049</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726921753049</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -597,6 +312,7 @@
     <MESSAGE value="krona splash" />
     <MESSAGE value="krona splash fix" />
     <MESSAGE value="MainPage update" />
-    <option name="LAST_COMMIT_MESSAGE" value="MainPage update" />
+    <MESSAGE value="MainPage update 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="MainPage update 2" />
   </component>
 </project>
