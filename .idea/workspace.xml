@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/composeApp/src/androidMain/res/font-v26/raleway.xml">
+        <config>
+          <theme>@android:style/Theme.Material.Light.NoActionBar</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/composeApp/src/androidMain/res/font/raleway.xml">
+        <config>
+          <theme>@android:style/Theme.Material.Light.NoActionBar</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="050a43bd-9ab6-421b-b3ef-31bb228044fe" name="Changes" comment="four screens" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=PhysicalDevice, isTemplate=false, identifier=serial=OVRCINUWPZMFD6DM)]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/composeApp">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PrincessDao&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:NumberP-I/Krona.git&quot;,
+    &quot;accountId&quot;: &quot;db374598-6388-4dc4-a73e-165081301f2f&quot;
+  }
+}</component>
+  <component name="KotlinMultiplatform" KONAN_HOME="C:\Users\PrincessDao\.konan\kotlin-native-prebuilt-windows-x86_64-2.0.20">
+    <executable TARGET="ios_simulator_arm64" TARGET_NAME="iosSimulatorArm64" EXECUTABLE_NAME="test" PROJECT_PREFIX=":composeApp:" IS_TEST="true">
+      <variant NAME="Debug" GRADLE_TASK=":composeApp:linkDebugTestIosSimulatorArm64" FILE="$PROJECT_DIR$/composeApp/build/bin/iosSimulatorArm64/debugTest/test.kexe" WORKING_DIR="" PROGRAM_PARAMS="">
+        <envs />
+      </variant>
+    </executable>
+    <executable TARGET="ios_arm64" TARGET_NAME="iosArm64" EXECUTABLE_NAME="test" PROJECT_PREFIX=":composeApp:" IS_TEST="true">
+      <variant NAME="Debug" GRADLE_TASK=":composeApp:linkDebugTestIosArm64" FILE="$PROJECT_DIR$/composeApp/build/bin/iosArm64/debugTest/test.kexe" WORKING_DIR="" PROGRAM_PARAMS="">
+        <envs />
+      </variant>
+    </executable>
+    <executable TARGET="ios_x64" TARGET_NAME="iosX64" EXECUTABLE_NAME="test" PROJECT_PREFIX=":composeApp:" IS_TEST="true">
+      <variant NAME="Debug" GRADLE_TASK=":composeApp:linkDebugTestIosX64" FILE="$PROJECT_DIR$/composeApp/build/bin/iosX64/debugTest/test.kexe" WORKING_DIR="" PROGRAM_PARAMS="">
+        <envs />
+      </variant>
+    </executable>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2mK3364R5kpQMDvAstXTulvo3nc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Android App.Unnamed.executor": "Run",
+    "Android App.composeApp.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "com.google.services.firebase.aqiPopupShown": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "external.system.has.shared.sources": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "J:/AndroidStudioProjects/Krona/composeApp/src/commonMain/composeResources/drawable",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="J:\AndroidStudioProjects\Krona\composeApp\src\commonMain\composeResources\drawable" />
+      <recent name="J:\AndroidStudioProjects\Krona\composeApp\src\commonMain\kotlin\org\example\krona" />
+      <recent name="J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\res\font" />
+      <recent name="J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\kotlin\org\example\krona" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="J:\AndroidStudioProjects\Krona\composeApp\src\commonMain\composeResources\drawable" />
+      <recent name="J:\AndroidStudioProjects\Krona\composeApp\build\kotlin-multiplatform-resources\assemble-hierarchically\androidDebugResources\composeResources\krona.composeapp.generated.resources\drawable" />
+      <recent name="J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\res\font" />
+      <recent name="J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\res\raw" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" nameIsGenerated="true">
+      <module name="krona.composeApp.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="iosApp" type="KmmRunConfiguration" factoryName="iOS Application" CONFIG_VERSION="1" XCODE_PROJECT="J:\AndroidStudioProjects\Krona\iosApp\iosApp.xcodeproj">
+      <method v="2">
+        <option name="com.jetbrains.kmm.ios.BuildIOSAppTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android App.Unnamed" />
+      <item itemvalue="iOS Application.iosApp" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="050a43bd-9ab6-421b-b3ef-31bb228044fe" name="Changes" comment="" />
+      <created>1726811238167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726811238167</updated>
+    </task>
+    <task id="LOCAL-00001" summary="krona kotlin">
+      <option name="closed" value="true" />
+      <created>1726814373680</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726814373680</updated>
+    </task>
+    <task id="LOCAL-00002" summary="krona kotlin">
+      <option name="closed" value="true" />
+      <created>1726815214956</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726815214956</updated>
+    </task>
+    <task id="LOCAL-00003" summary="krona kotlin">
+      <option name="closed" value="true" />
+      <created>1726815226945</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726815226945</updated>
+    </task>
+    <task id="LOCAL-00004" summary="krona kotlin">
+      <option name="closed" value="true" />
+      <created>1726815236408</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726815236408</updated>
+    </task>
+    <task id="LOCAL-00005" summary="krona splash">
+      <option name="closed" value="true" />
+      <created>1726856284887</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726856284888</updated>
+    </task>
+    <task id="LOCAL-00006" summary="krona splash fix">
+      <option name="closed" value="true" />
+      <created>1726858392973</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726858392973</updated>
+    </task>
+    <task id="LOCAL-00007" summary="MainPage update">
+      <option name="closed" value="true" />
+      <created>1726859352464</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726859352464</updated>
+    </task>
+    <task id="LOCAL-00008" summary="MainPage update 2">
+      <option name="closed" value="true" />
+      <created>1726921753049</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726921753049</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Commit Arrow">
+      <option name="closed" value="true" />
+      <created>1726921944068</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726921944068</updated>
+    </task>
+    <task id="LOCAL-00010" summary="four screens">
+      <option name="closed" value="true" />
+      <created>1726957997794</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1726957997794</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="krona kotlin" />
+    <MESSAGE value="krona splash" />
+    <MESSAGE value="krona splash fix" />
+    <MESSAGE value="MainPage update" />
+    <MESSAGE value="MainPage update 2" />
+    <MESSAGE value="Commit Arrow" />
+    <MESSAGE value="four screens" />
+    <option name="LAST_COMMIT_MESSAGE" value="four screens" />
+  </component>
+</project>
