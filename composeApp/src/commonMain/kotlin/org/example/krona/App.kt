@@ -23,13 +23,14 @@ import krona.composeapp.generated.resources.*
 import org.jetbrains.compose.resources.DrawableResource
 
 import androidx.compose.runtime.*
+import androidx.compose.ui.text.font.FontWeight
 
 @Composable
 @Preview
 fun AppWithSplash() {
     var showSplash by remember { mutableStateOf(true) }
 
-    if (showSplash) {
+    if (!showSplash) { //убрать восклицательный
         PlayStartupVideo {
             showSplash = false
         }
@@ -59,6 +60,8 @@ fun App() {
                         Text(
                             text = getLabelForScreen(currentScreen),
                             maxLines = 1,
+                            fontFamily = raleway,
+                            fontWeight = FontWeight.W500,
                             color = Color(0xFFFFE7D3),
                             modifier = Modifier.padding(top = 24.dp),
                             fontSize = 20.sp
@@ -101,6 +104,8 @@ fun App() {
                                 },
                                 label = {
                                     Text(
+                                        fontFamily = raleway,
+                                        fontWeight = FontWeight.W600,
                                         text = item.label,
                                         color = Color(0xFFFFE7D3).copy(alpha = 0.3f),
                                         fontSize = 10.sp,

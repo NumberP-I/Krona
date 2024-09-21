@@ -31,12 +31,12 @@
 21-->[androidx.core:core:1.13.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e3969c6af169c496b1f78089068881a6\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
 22        android:debuggable="true"
 23        android:extractNativeLibs="false"
-24        android:icon="@mipmap/ic_launcher"
-24-->J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:6:9-43
+24        android:icon="@mipmap/logo"
+24-->J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:6:9-36
 25        android:label="@string/app_name"
 25-->J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:7:9-41
-26        android:roundIcon="@mipmap/ic_launcher_round"
-26-->J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:8:9-54
+26        android:roundIcon="@mipmap/logo_round"
+26-->J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:8:9-47
 27        android:supportsRtl="true"
 27-->J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:9:9-35
 28        android:testOnly="true"

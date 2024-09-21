@@ -102,9 +102,9 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\PrincessDao\.gradl
 	android:label
 		ADDED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:7:9-41
 	android:roundIcon
-		ADDED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:8:9-54
+		ADDED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:8:9-47
 	android:icon
-		ADDED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:6:9-43
+		ADDED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:6:9-36
 	android:allowBackup
 		ADDED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:5:9-35
 	android:theme
