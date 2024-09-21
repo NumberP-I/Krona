@@ -97,6 +97,11 @@
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.androidx.lifecycle:lifecycle-viewmodel:nonJvmMain:2.8.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.androidx.lifecycle:lifecycle-viewmodel:commonMain:2.8.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose:commonMain:2.8.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-datetime:darwinMain:0.6.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-datetime:tzdbOnFilesystemMain:0.6.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-datetime:tzfileMain:0.6.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-datetime:nativeMain:0.6.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-datetime:commonMain:0.6.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.collection-internal:collection:jsNativeMain:1.6.11" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.collection-internal:collection:jbMain:1.6.11" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.collection-internal:collection:commonMain:1.6.11" level="project" />
@@ -145,11 +150,6 @@
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.ui:ui-unit:jsNativeMain:1.6.11" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.ui:ui-unit:jbMain:1.6.11" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.ui:ui-unit:commonMain:1.6.11" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-datetime:darwinMain:0.6.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-datetime:tzdbOnFilesystemMain:0.6.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-datetime:tzfileMain:0.6.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-datetime:nativeMain:0.6.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-datetime:commonMain:0.6.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.androidx.lifecycle:lifecycle-common:nonJvmMain:2.8.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.androidx.lifecycle:lifecycle-common:commonMain:2.8.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.androidx.lifecycle:lifecycle-runtime:nativeMain:2.8.0" level="project" />

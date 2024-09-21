@@ -57,6 +57,7 @@
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.components:components-ui-tooling-preview:commonMain:1.6.11" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.androidx.lifecycle:lifecycle-viewmodel:commonMain:2.8.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose:commonMain:2.8.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-datetime:commonMain:0.6.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.animation:animation:nativeMain:1.6.11" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.animation:animation:jsNativeMain:1.6.11" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.animation:animation:commonMain:1.6.11" level="project" />

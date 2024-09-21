@@ -2,6 +2,7 @@
 
 package org.example.krona
 
+import PersonalAccount
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.*
 import androidx.compose.material3.CenterAlignedTopAppBar
@@ -30,7 +31,7 @@ import androidx.compose.ui.text.font.FontWeight
 fun AppWithSplash() {
     var showSplash by remember { mutableStateOf(true) }
 
-    if (!showSplash) { //убрать восклицательный
+    if (showSplash) { //убрать восклицательный
         PlayStartupVideo {
             showSplash = false
         }
@@ -108,7 +109,7 @@ fun App() {
                                         fontWeight = FontWeight.W600,
                                         text = item.label,
                                         color = Color(0xFFFFE7D3).copy(alpha = 0.3f),
-                                        fontSize = 10.sp,
+                                        fontSize = 9.sp,
                                     )
                                 },
                                 selected = currentScreen == getScreenForIndex(index),
